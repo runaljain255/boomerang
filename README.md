@@ -56,7 +56,7 @@ You should be able to test locally with Node.js using the following:
 
 Deployment
 ---------------
-Deploy on your web server of choice (Apache, Nginx, etc).
+Deploy on your web server of choice (Apache, Nginx, etc). #apache is preffered
 If you need a web server, Google App Engine's free tier should be more than sufficient for your
 chapter's needs.
 
